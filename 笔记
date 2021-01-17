@@ -1,0 +1,16 @@
+说明：以下仅作笔记。
+1.配置说明和自动生成脚本：
+https://www.right.com.cn/forum/thread-1237348-1-1.html
+2.OpenWrt 编译 LuCI -> Applications 添加插件应用说明：
+https://www.right.com.cn/forum/thread-344825-1-1.html
+3.OpenwrtCompileScript（openwrt编译脚本）：
+https://www.right.com.cn/forum/thread-345378-1-1.html
+4.Github Gitpod云编译：
+https://www.right.com.cn/forum/thread-1573038-1-1.html
+5.GitHub Actions云编译OpenWrt固件：
+https://mtom.ml/788.html#.YAQNYWg3tPY
+6.GitHub Actions 云menuconfig自定义配置编译OpenWrt Helloworld固件：
+https://mtom.ml/798.html#.YAQNnWg3tPY
+
+7.https://p3terx.com/archives/build-openwrt-with-github-actions.html
+https://p3terx.com/archives/build-openwrt-with-github-actions.html
